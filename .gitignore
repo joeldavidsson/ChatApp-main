@@ -1,0 +1,7 @@
+/obj/
+/bin/
+Server/obj/
+Server/bin/
+Shared/bin/
+**/bin/*
+**/obj/*
